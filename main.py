@@ -1,0 +1,13 @@
+print("=== BIODATA MAHASISWA ===")
+nama = input("Nama          : ")
+nim = input("NIM           : ")
+prodi = input("Program Studi : ")
+fakultas = input("Fakultas       : ")
+alamat = input("Alamat         : ")
+
+print("\n=== BIODATA ANDA ===")
+print(f"Nama          : {nama}")
+print(f"NIM           : {nim}")
+print(f"Program Studi : {prodi}")
+print(f"Fakultas      : {fakultas}")
+print(f"Alamat        : {alamat}")
